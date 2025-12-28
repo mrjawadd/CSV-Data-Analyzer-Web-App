@@ -54,6 +54,3 @@ To run this application locally:
 * Add support for multiple file formats (Excel, JSON).
 * Include more advanced visualization options like heatmaps and pair plots.
 * Add user authentication to save and manage datasets securely.
----
-
-If you want, I can also make an **even more professional version** that reads like a polished GitHub project README with badges, screenshots, and detailed instructions. Do you want me to do th
